@@ -14,6 +14,10 @@ const options = [
     {
         label: 'Russian',
         value: 'ru'
+    },
+    {
+        label: 'Japanese',
+        value: 'ja'
     }
 ];
 
